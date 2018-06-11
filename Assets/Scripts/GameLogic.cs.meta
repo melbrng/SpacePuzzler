@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 167ff67f7a8054e3f895549f6611b2b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 177758, guid: 970dd4b9371394fb4890965f608d46fd, type: 2}
+  - eventSystem: {fileID: 761381335, guid: 463285ecd6702471a909ba810832bf0e, type: 2}
+  - startUI: {instanceID: 0}
+  - restartUI: {instanceID: 0}
+  - startPoint: {instanceID: 0}
+  - playPoint: {instanceID: 0}
+  - restartPoint: {instanceID: 0}
+  - shieldAnimator: {instanceID: 0}
+  - failAudioHolder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

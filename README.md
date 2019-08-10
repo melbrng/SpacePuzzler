@@ -21,9 +21,9 @@ The objective is to navigate through ruins on a moon surrounded by a force field
 ## Initial Design Sketch
 First step was to make a sketch depicting how I wanted to implement the environment.
 
-![Screenshot](puzzler1.jpg)
+![Screenshot](puzzler1.jpeg)
 
-![Screenshot](puzzler2.jpg)
+![Screenshot](puzzler2.png)
 
 ## First Implementation
 

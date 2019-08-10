@@ -27,8 +27,8 @@ First step was to make a sketch depicting how I wanted to implement the environm
 
 ## First Implementation
 
-[Screenshot](https://youtu.be/q4XCBnVzamA)
+[Space Puzzler first](https://youtu.be/q4XCBnVzamA)
 
 ## Final Implementation
 
-[Screenshot](https://youtu.be/zuWcw-SYR04)
+[Space Puzzler final](https://youtu.be/zuWcw-SYR04)

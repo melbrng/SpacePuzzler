@@ -16,7 +16,7 @@ The objective is to navigate through ruins on a moon surrounded by a force field
 - Submitted and tested on iPhone 6
 
 ## Unity Asset Store Acquisitions
-- 
+- Stylized Astronaut by NightSoundGames
 
 ## Initial Design Sketch
 First step was to make a sketch depicting how I wanted to implement the environment.

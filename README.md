@@ -10,8 +10,9 @@ Virtual Reality project using Unity and Google Cardboard VR Headset.
 The objective is to navigate through ruins on a moon surrounded by a force field and mimic the orb sequence pattern in order to exit the field.
 
 ---
-## Versions
+## Tech Versions
 - Unity 2017.2.0f3
+- C#
 - Google VR Unity SDK v1.70.0
 - Submitted and tested on iPhone 6
 
